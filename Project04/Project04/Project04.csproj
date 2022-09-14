@@ -55,6 +55,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="WinChebisheva.xaml.cs">
+      <DependentUpon>WinChebisheva.xaml</DependentUpon>
+    </Compile>
     <Compile Include="WinGauss.xaml.cs">
       <DependentUpon>WinGauss.xaml</DependentUpon>
     </Compile>
@@ -80,6 +83,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="WinChebisheva.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="WinGauss.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

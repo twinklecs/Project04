@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Twinkle\Documents\GitHub\Project04\Project04\Project04\obj\Debug\
+C:\Users\Twinkle\Documents\GitHub\Project04\Project04\Project04\obj\Release\
 Project04
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Twinkle\Documents\GitHub\Project04\Project04\Project04\App.xaml
 6-646346671
 
@@ -16,5 +16,5 @@ C:\Users\Twinkle\Documents\GitHub\Project04\Project04\Project04\App.xaml
 13-1505183044
 MainWindow.xaml;WinChebisheva.xaml;WinGauss.xaml;WinNewtonCotes.xaml;WinSimpsona.xaml;WinTrapezoid.xaml;
 
-False
+True
 

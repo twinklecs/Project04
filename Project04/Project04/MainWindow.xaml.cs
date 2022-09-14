@@ -46,6 +46,8 @@ namespace Project04
 
         private void btn_Chebyshevs_Click(object sender, RoutedEventArgs e)
         {
+            WinChebisheva winChebisheva = new WinChebisheva();
+            winChebisheva.Show();
 
             this.Close();
         }
